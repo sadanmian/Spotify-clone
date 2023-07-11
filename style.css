@@ -118,6 +118,7 @@ nav ul li {
 }
 
 .songInfo {
+    margin-top: 20px;
     font-family: 'Varela Round', sans-serif;
     position: absolute;
     left: 10vw;
@@ -125,5 +126,7 @@ nav ul li {
 
 .songInfo img {
     opacity: 0;
-    transition: opacity 1s ease-in;
+    transition: opacity 0.2s ease-in;
+    margin-right: 20px;
+    width: 100px;
 }
