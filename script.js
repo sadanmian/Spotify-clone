@@ -8,53 +8,53 @@ let gif = document.getElementById('gif')
 
 let songs = [
     {
-        songName: "Jai Ho",
+        songName: "Warriyo - Mortals [NCS Release]",
         filePath: "songs/1.mp3",
         coverPath: "covers/1.jpg"
     },
     {
-        songName: "Jai Ho",
+        songName: "Cielo - Huma-Huma",
         filePath: "songs/2.mp3",
         coverPath: "covers/2.jpg"
     },
     {
-        songName: "Jai Ho",
+        songName: "DEAF KEV - Invincible [NCS Release]-320k",
         filePath: "songs/3.mp3",
         coverPath: "covers/3.jpg"
     },
     {
-        songName: "Jai Ho",
+        songName: "Different Heaven & EH!DE - My Heart [NCS Release]",
         filePath: "songs/4.mp3",
         coverPath: "covers/4.jpg"
     },
     {
-        songName: "Jai Ho",
+        songName: "Janji-Heroes-Tonight-feat-Johnning-NCS-Release",
         filePath: "songs/5.mp3",
         coverPath: "covers/5.jpg"
     },
     {
-        songName: "Jai Ho",
-        filePath: "songs/6.mp3",
+        songName: "Rabba - Salam-e-Ishq",
+        filePath: "songs/2.mp3",
         coverPath: "covers/6.jpg"
     },
     {
-        songName: "Jai Ho",
-        filePath: "songs/7.mp3",
+        songName: "Sakhiyaan - Salam-e-Ishq",
+        filePath: "songs/2.mp3",
         coverPath: "covers/7.jpg"
     },
     {
-        songName: "Jai Ho",
-        filePath: "songs/8.mp3",
+        songName: "Bhula Dena - Salam-e-Ishq",
+        filePath: "songs/2.mp3",
         coverPath: "covers/8.jpg"
     },
     {
-        songName: "Jai Ho",
-        filePath: "songs/9.mp3",
+        songName: "Tumhari Kasam - Salam-e-Ishq",
+        filePath: "songs/2.mp3",
         coverPath: "covers/9.jpg"
     },
     {
-        songName: "Jai Ho",
-        filePath: "songs/10.mp3",
+        songName: "Na Jaana - Salam-e-Ishq",
+        filePath: "songs/4.mp3",
         coverPath: "covers/10.jpg"
     },
 ]
