@@ -11,6 +11,8 @@ body {
 
 nav {
     font-family: 'Ubuntu', sans-serif;
+    position: sticky;
+    top: 0;
 }
 
 nav ul {
@@ -39,12 +41,24 @@ nav ul li {
 }
 
 .container {
-    min-height: calc(100vh - 65px - 130px);
+    /* (100vh - 65px - 130px - (23px + 23px) -(34px + 34px)) */
+    min-height: calc(100vh - 309px);
+    width: 70vw;
+    background-color: black;
+    color: white;
+    font-family: 'Varela Round', sans-serif;
+    display: flex;
+    margin: 23px auto;
+    border-radius: 12px;
+    padding: 34px;
+    background-image: url("./bg.jpg");
+    background-size: cover;
 }
 
 
 .bottom {
     position: sticky;
+    bottom: 0px;
     height: 130px;
     background-color: black;
     color: white;
