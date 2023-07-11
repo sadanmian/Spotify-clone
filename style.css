@@ -114,6 +114,7 @@ nav ul li {
     width: 80vw;
     display: flex;
     justify-content: center;
+    cursor: pointer;
 }
 
 .songInfo {
